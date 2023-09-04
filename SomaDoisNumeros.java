@@ -9,7 +9,7 @@ public class SomaDoisNumeros{
         // Entrada
     System.out.println("Digite o primeiro operando");
     primeiroOperando = leitor.nextDouble ();
-    System.out.println(Digite o segundoOperando);
+    System.out.println("Digite o segundoOperando");
     segundoOperando = leitor.nextDouble();
 
         // Processamento
